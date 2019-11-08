@@ -1,0 +1,6 @@
+System.String - Empty
+
+System.Char - Chars
+
+System.Int32 - Length
+

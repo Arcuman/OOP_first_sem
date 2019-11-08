@@ -1,0 +1,52 @@
+ConsoleApp11.Human - Method - get_Name
+
+ConsoleApp11.Human - Method - get_Country
+
+ConsoleApp11.Human - Method - get_LifeLength
+
+ConsoleApp11.Human - Method - get_IQ
+
+ConsoleApp11.Human - Method - get_Day
+
+ConsoleApp11.Human - Method - get_Month
+
+ConsoleApp11.Human - Method - get_Year
+
+ConsoleApp11.Human - Method - get_Sex
+
+ConsoleApp11.Human - Method - Think
+
+ConsoleApp11.Human - Method - ToString
+
+ConsoleApp11.Human - Method - Met
+
+ConsoleApp11.Human - Method - Met1
+
+ConsoleApp11.Human - Method - Met2
+
+System.Object - Method - Equals
+
+System.Object - Method - GetHashCode
+
+System.Object - Method - GetType
+
+ConsoleApp11.Human - Constructor - .ctor
+
+ConsoleApp11.Human - Constructor - .ctor
+
+ConsoleApp11.Human - Property - Name
+
+ConsoleApp11.Human - Property - Country
+
+ConsoleApp11.Human - Property - LifeLength
+
+ConsoleApp11.Human - Property - IQ
+
+ConsoleApp11.Human - Property - Day
+
+ConsoleApp11.Human - Property - Month
+
+ConsoleApp11.Human - Property - Year
+
+ConsoleApp11.Human - Property - Sex
+

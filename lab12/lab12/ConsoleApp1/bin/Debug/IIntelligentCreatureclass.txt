@@ -1,0 +1,14 @@
+ConsoleApp11.IIntelligentCreature - Method - get_LifeLength
+
+ConsoleApp11.IIntelligentCreature - Method - get_IQ
+
+ConsoleApp11.IIntelligentCreature - Method - get_Name
+
+ConsoleApp11.IIntelligentCreature - Method - Think
+
+ConsoleApp11.IIntelligentCreature - Property - LifeLength
+
+ConsoleApp11.IIntelligentCreature - Property - IQ
+
+ConsoleApp11.IIntelligentCreature - Property - Name
+

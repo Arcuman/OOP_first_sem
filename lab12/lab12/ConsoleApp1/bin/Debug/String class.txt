@@ -1,0 +1,270 @@
+System.String - Method - Join
+
+System.String - Method - Join
+
+System.String - Method - Join
+
+System.String - Method - Join
+
+System.String - Method - Equals
+
+System.String - Method - Equals
+
+System.String - Method - Equals
+
+System.String - Method - Equals
+
+System.String - Method - Equals
+
+System.String - Method - op_Equality
+
+System.String - Method - op_Inequality
+
+System.String - Method - CopyTo
+
+System.String - Method - ToCharArray
+
+System.String - Method - ToCharArray
+
+System.String - Method - IsNullOrEmpty
+
+System.String - Method - IsNullOrWhiteSpace
+
+System.String - Method - GetHashCode
+
+System.String - Method - Split
+
+System.String - Method - Split
+
+System.String - Method - Split
+
+System.String - Method - Split
+
+System.String - Method - Split
+
+System.String - Method - Split
+
+System.String - Method - Substring
+
+System.String - Method - Substring
+
+System.String - Method - Trim
+
+System.String - Method - TrimStart
+
+System.String - Method - TrimEnd
+
+System.String - Method - IsNormalized
+
+System.String - Method - IsNormalized
+
+System.String - Method - Normalize
+
+System.String - Method - Normalize
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - Compare
+
+System.String - Method - CompareTo
+
+System.String - Method - CompareTo
+
+System.String - Method - CompareOrdinal
+
+System.String - Method - CompareOrdinal
+
+System.String - Method - Contains
+
+System.String - Method - EndsWith
+
+System.String - Method - EndsWith
+
+System.String - Method - EndsWith
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOfAny
+
+System.String - Method - IndexOfAny
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOf
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOfAny
+
+System.String - Method - LastIndexOfAny
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOf
+
+System.String - Method - PadLeft
+
+System.String - Method - PadLeft
+
+System.String - Method - PadRight
+
+System.String - Method - PadRight
+
+System.String - Method - StartsWith
+
+System.String - Method - StartsWith
+
+System.String - Method - StartsWith
+
+System.String - Method - ToLower
+
+System.String - Method - ToLower
+
+System.String - Method - ToLowerInvariant
+
+System.String - Method - ToUpper
+
+System.String - Method - ToUpper
+
+System.String - Method - ToUpperInvariant
+
+System.String - Method - ToString
+
+System.String - Method - ToString
+
+System.String - Method - Clone
+
+System.String - Method - Trim
+
+System.String - Method - Insert
+
+System.String - Method - Replace
+
+System.String - Method - Replace
+
+System.String - Method - Remove
+
+System.String - Method - Remove
+
+System.String - Method - Format
+
+System.String - Method - Format
+
+System.String - Method - Format
+
+System.String - Method - Format
+
+System.String - Method - Format
+
+System.String - Method - Format
+
+System.String - Method - Copy
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Concat
+
+System.String - Method - Intern
+
+System.String - Method - IsInterned
+
+System.String - Method - GetTypeCode
+
+System.String - Method - GetEnumerator
+
+System.String - Method - Join
+
+System.String - Method - get_Chars
+
+System.String - Method - get_Length
+
+System.String - Method - Concat
+
+System.String - Method - IndexOf
+
+System.String - Method - IndexOfAny
+
+System.String - Method - LastIndexOf
+
+System.String - Method - LastIndexOfAny
+
+System.String - Method - Format
+
+System.String - Method - Format
+
+System.Object - Method - GetType
+
+System.String - Constructor - .ctor
+
+System.String - Constructor - .ctor
+
+System.String - Constructor - .ctor
+
+System.String - Constructor - .ctor
+
+System.String - Constructor - .ctor
+
+System.String - Constructor - .ctor
+
+System.String - Constructor - .ctor
+
+System.String - Constructor - .ctor
+
+System.String - Property - Chars
+
+System.String - Property - Length
+
+System.String - Field - Empty
+

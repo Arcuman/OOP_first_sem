@@ -1,0 +1,16 @@
+System.String - Name
+
+System.String - Country
+
+System.Int32 - LifeLength
+
+System.Int32 - IQ
+
+System.Int32 - Day
+
+System.Int32 - Month
+
+System.Int32 - Year
+
+System.String - Sex
+

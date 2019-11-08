@@ -1,0 +1,14 @@
+ - TypeInfo - IComparable
+
+ - TypeInfo - ICloneable
+
+ - TypeInfo - IConvertible
+
+ - TypeInfo - IEnumerable
+
+ - TypeInfo - IComparable`1
+
+ - TypeInfo - IEnumerable`1
+
+ - TypeInfo - IEquatable`1
+

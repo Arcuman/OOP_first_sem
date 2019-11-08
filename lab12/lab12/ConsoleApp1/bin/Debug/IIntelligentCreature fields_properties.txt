@@ -1,0 +1,6 @@
+System.Int32 - LifeLength
+
+System.Int32 - IQ
+
+System.String - Name
+

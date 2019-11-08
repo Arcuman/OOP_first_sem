@@ -1,0 +1,11 @@
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\БГТУ 2 курс\OOP\Лабы\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
