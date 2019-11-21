@@ -13,6 +13,7 @@ namespace lab14
 {
     [Serializable]
     [XmlRoot("Human")]
+    
     public class Army
     {
         private List<Human> units = new List<Human>();
@@ -24,6 +25,7 @@ namespace lab14
         public int Count => units.Count;
         [XmlArray("ListofUnits")]
         [XmlArrayItem("Human")]
+        [XmlIgnore]
         public List<Human> ListofUnits
         {
             get => units;

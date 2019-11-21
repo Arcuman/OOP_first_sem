@@ -5,3 +5,10 @@ D:\БГТУ 2 курс\OOP\Лабы\lab12\ConsoleApp1\ConsoleApp1\obj\Debug\Cons
 D:\БГТУ 2 курс\OOP\Лабы\lab12\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\БГТУ 2 курс\OOP\Лабы\lab12\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\БГТУ 2 курс\OOP\Лабы\lab12\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\БГТУ 2 курс\OOP\Лабы\lab12\lab12\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\БГТУ 2 курс\OOP\Лабы\lab12\lab12\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\БГТУ 2 курс\OOP\Лабы\lab12\lab12\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\БГТУ 2 курс\OOP\Лабы\lab12\lab12\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\БГТУ 2 курс\OOP\Лабы\lab12\lab12\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\БГТУ 2 курс\OOP\Лабы\lab12\lab12\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\БГТУ 2 курс\OOP\Лабы\lab12\lab12\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

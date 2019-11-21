@@ -31,6 +31,7 @@ namespace ConsoleApp1
                 sw.Close();
             }
         }
+
         public void PublicMethods()
         {
             using (FileStream fstream = new FileStream(this.type.Name + " methods.txt", FileMode.Create))
